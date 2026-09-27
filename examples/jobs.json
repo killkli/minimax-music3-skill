@@ -1,0 +1,11 @@
+{
+  "jobs": [
+    {
+      "id": "evening-demo",
+      "lyrics": "[Verse]\nPaper boats cross the evening stream\n[Chorus]\nThe quiet stars begin to gleam",
+      "music_description": "Gentle acoustic pop, intimate female lead, fingerpicked guitar, soft piano, and a gradual final chorus build.",
+      "duration_seconds": 30,
+      "seed": 7
+    }
+  ]
+}
